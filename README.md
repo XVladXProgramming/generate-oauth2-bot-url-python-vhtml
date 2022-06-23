@@ -5,4 +5,4 @@ Create a templates folder and put the file there index.html
 
 tutorial by https://github.com/XVladXProgramming/generate-oauth2-bot-url-python-vhtml/
 
-NO HTML version https://github.com/XVladXProgramming/generate-oauth2-bot-url-python/
+NOT HTML version https://github.com/XVladXProgramming/generate-oauth2-bot-url-python/
